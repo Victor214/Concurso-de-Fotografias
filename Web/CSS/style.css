@@ -1,0 +1,23 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 06/11/2019, 19:12:15
+    Author     : Victor
+*/
+
+
+.textoheader {
+    color: white;
+}
+
+.invisivel {
+    visibility: hidden;
+}
+
+.pretoebranco {
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+}
